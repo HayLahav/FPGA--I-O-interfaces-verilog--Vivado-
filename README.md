@@ -1,2 +1,2 @@
 # FPGA--I-O-interfaces-verilog--Vivado-
-implementation of  PS2 interface the design and test
+implementation of  PS2 and Video Graphics Array (VGA) interfaces - design and test
