@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haylahav/lab2hay/lab2hay.srcs/sources_1/new/Seg_7_Display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Seg_7_Display
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haylahav/lab2hay/lab2hay.srcs/sources_1/new/Ps2_Display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ps2_Display
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haylahav/lab2hay/lab2hay.srcs/sources_1/new/Ps2_Interface.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ps2_Interface
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haylahav/lab2hay/lab2hay.srcs/sources_1/new/Ps2_Top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ps2_Top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haylahav/lab2hay/lab2hay.srcs/sources_1/new/VGA_Top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VGA_Top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haylahav/lab2hay/lab2hay.srcs/sources_1/new/VGA_interface.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VGA_interface
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haylahav/lab2hay/lab2hay.srcs/sim_1/new/Ps2_Interface_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ps2_Interface_tb
+WARNING: [VRFC 10-2019] loop variable declaration is not allowed in this mode of verilog [C:/Users/haylahav/lab2hay/lab2hay.srcs/sim_1/new/Ps2_Interface_tb.v:78]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haylahav/lab2hay/lab2hay.srcs/sim_1/new/VGA_interface_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VGA_interface_tb
+WARNING: [VRFC 10-2019] loop variable declaration is not allowed in this mode of verilog [C:/Users/haylahav/lab2hay/lab2hay.srcs/sim_1/new/VGA_interface_tb.v:79]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haylahav/lab2hay/lab2hay.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

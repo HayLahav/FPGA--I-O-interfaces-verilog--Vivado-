@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../lab2hay.srcs/sources_1/new/Seg_7_Display.v"
+verilog xil_defaultlib  "../../../lab2hay.srcs/sources_1/new/Ps2_Display.v"
+verilog xil_defaultlib  "../../../lab2hay.srcs/sources_1/new/Ps2_Interface.v"
+verilog xil_defaultlib  "../../../lab2hay.srcs/sources_1/new/Ps2_Top.v"
+verilog xil_defaultlib  "../../../lab2hay.srcs/sources_1/new/VGA_Top.v"
+verilog xil_defaultlib  "../../../lab2hay.srcs/sources_1/new/VGA_interface.v"
+verilog xil_defaultlib  "../../../lab2hay.srcs/sim_1/new/Ps2_Interface_tb.v"
+verilog xil_defaultlib  "../../../lab2hay.srcs/sim_1/new/VGA_interface_tb.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
